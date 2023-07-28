@@ -29,7 +29,7 @@ import seaborn as sns
 
 ### Video de youtube
 
-[Explicacion del proyecto 2](https://youtu.be/TiiyXgY8-ZQ)
+[Explicacion del proyecto 2](https://youtu.be/IJIM7H4YwkM)
 
 ### Documentacion
 
